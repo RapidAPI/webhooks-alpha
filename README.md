@@ -26,7 +26,7 @@ Once you look at the API, on the overview screen, you should see all the webhook
 
 On the right panel you'll have a code snippet that you can copy to your app. The function in that code snippet will get called whenever that event happens. (Don't forget to download the SDK for your preferred language!)
 
-You can also use the **Test** button in that screen to test the connection in your code. That button will fire up a fake event, so that you can see your app is actually connected properly. Simply copy the code snippet into your application, run it, and press the **Test Event** button. No setup necessary!
+You can also use the **Test Event** button in that screen to test the connection in your code. That button will fire up a fake event, so that you can see your app is actually connected properly. Simply copy the code snippet into your application, run it, and press the **Test Event** button. No setup necessary!
 
 Once you've found the event you would like to listen to and tested that it works, follow the steps provided on how to setup the webhook (note: it's important to use the provided URL as a callback), and you're ready to go! Also, it's important that you provide the required parameters for that event. 
 
